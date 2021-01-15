@@ -34,3 +34,5 @@ The last image shows that there are more Subscribers \(long-term\) than Customer
 NYC Citi Bike is most successful where there is a mixture of locals and tourists.  August is a good month for bike-riding, therefore will need the most number of bikes.  Des Moines is an urban city, which will likely have the same diverse types of people.  The biggest difference is population, therefore the number of bikes needed in the fleet will be significantly less.
 
 To see the detailed data visualizations, click on this link\: [Link to Data Visualization](https://public.tableau.com/profile/anna.bonuan#!/vizhome/NYCCitiBikeDataVisualization/NYCCitiBikeStory)
+
+I recommend including a pie chart data visualization to show percentage of Gender Type \(female and male\).  This can help with aquiring different size bikes for the fleet, smaller frame for \(most\) females so it's lighter, and a bigger frame for males.  Another visualization I recommend is a pie chart of age range, essentially for the same reason. This will show if it is worth acquiring bikes for kids.
